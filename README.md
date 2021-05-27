@@ -84,6 +84,9 @@ Full-Stack | Software engineer :man_technologist:. (In progress)
 ---
 
 ### Social Network & Payment method
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://paypal.me/ArielCalisaya"> 
+<a href="https://linkedin.com/in/arielcalisaya/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+<a href="https://paypal.me/ArielCalisaya"> 
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
