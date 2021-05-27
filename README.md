@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<br>
-	<a href="https://duckduckgo.com">
+	<a href="https://duckduckgo.com" target="_blank" rel="noopener noreferrer">
 		<img src="greeting.svg" width="500" height="250" alt="Click here!!!">
 	</a>
 	<br>
