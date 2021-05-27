@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
-		<img src="greeting.svg" width="800" height="400" alt="Click to see the source">
+	<a href="https://duckduckgo.com">
+		<img src="greeting.svg" width="500" height="250" alt="Click here!!!">
 	</a>
 	<br>
 </div>
