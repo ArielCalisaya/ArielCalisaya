@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 <!--
+
+<div align="right">
+	<br>
+	<a href="https://linkedin.com/in/arielcalisaya/" target="_blank" rel="noopener noreferrer">
+		<img src="greeting.svg" width="400" height="400" alt="Click here!!!">
+	</a>
+	<br>
+</div>
+
 **ArielCalisaya/ArielCalisaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,16 +24,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-	<br>
-	<a href="https://linkedin.com/in/arielcalisaya/" target="_blank" rel="noopener noreferrer">
-		<img src="greeting.svg" width="500" height="250" alt="Click here!!!">
-	</a>
-	<br>
-</div>
 
 
+<a href="https://linkedin.com/in/arielcalisaya/" target="_blank" rel="noopener noreferrer">
+	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
+</a>
 
+# Hi, I'm Ariel C. Serrano :chicken:
+
+Full-Stack | Software engineer :man_technologist:. (In progress)
+
+
+## About me 
+
+:heart: Rain Day | :blue_heart: Programming
+
+- :earth_americas: I'm from Santiago - Chile
+- :gem: I love to customize everything
 - 🌱 I’m currently learning Gatsby and SSR
 
 
