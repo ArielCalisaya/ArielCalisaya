@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -101,9 +101,7 @@
 					align-items: center;
 					padding: 24px 32px;
 					width: 227px;
-					height: 200px;
-
-					/*background: #EFF0F7;**/
+					height: auto;
 					background: #4E4B66;
 					border-radius: 32px 0px 32px 32px;
 				}
@@ -131,23 +129,15 @@
 				
 				
 			</style>
-			<div>
-			<div class="container">
-				<h1>Welcome!!! <br/> 
-					<h2>to my READ.ME</h2>
-				</h1> 
-				<p>Have a nice day!!!</p>
-				
-			</div>
-			 	<div classname="card">
+
+			<div classname="card">
 			    <p classname="paragraph">
 			      I wonder if there is a way this can be learned quickly.
 			    </p>
 			    <span>
 			      02:06 PM, Sat
 			    </span>
-				</div>
-			</div>	
+			</div>
 		</div>
 	</foreignObject>
 </svg>
