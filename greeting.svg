@@ -131,21 +131,23 @@
 				
 				
 			</style>
+			<div>
 			<div class="container">
 				<h1>Welcome!!! <br/> 
 					<h2>to my READ.ME</h2>
 				</h1> 
 				<p>Have a nice day!!!</p>
 				
-				 <div classname="card">
-				    <p classname="paragraph">
-				      I wonder if there is a way this can be learned quickly.
-				    </p>
-				    <span>
-				      02:06 PM, Sat
-				    </span>
-				</div>
 			</div>
+			 	<div classname="card">
+			    <p classname="paragraph">
+			      I wonder if there is a way this can be learned quickly.
+			    </p>
+			    <span>
+			      02:06 PM, Sat
+			    </span>
+				</div>
+			</div>	
 		</div>
 	</foreignObject>
 </svg>
