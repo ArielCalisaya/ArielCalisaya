@@ -1,13 +1,5 @@
 <!--
 
-<div align="right">
-	<br>
-	<a href="https://linkedin.com/in/arielcalisaya/" target="_blank" rel="noopener noreferrer">
-		<img src="greeting.svg" width="400" height="400" alt="Click here!!!">
-	</a>
-	<br>
-</div>
-
 **ArielCalisaya/ArielCalisaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Badges Provider = https://github.com/alexandresanlim/Badges4-README.md-Profile
@@ -32,7 +24,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ariel C. Serrano :chicken:
 
-Full-Stack | Software engineer :man_technologist:. (In progress)
+Freelancer Frontend Developer  :man_technologist:.
 
 
 ## About me 
