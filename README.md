@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
 </a>
 
-# Hi, I'm Ariel C. Serrano :chicken:
+# Hi, I'm Ariel C. Serrano :octocat:
 
 Freelancer Frontend Developer  :man_technologist:.
 
