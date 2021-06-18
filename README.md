@@ -33,7 +33,7 @@ Freelance Frontend Developer  :man_technologist:.
 
 - :earth_americas: I'm from Santiago - Chile
 - :gem: I love to customize everything
-- 🌱 I’m currently learning Gatsby and SSR
+- 🌱 I’m currently learning Nextjs, Gatsby and SSR
 
 ### I love work with :
 <a href="https://github.com/ArielCalisaya">
