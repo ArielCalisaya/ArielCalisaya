@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌱 I’m currently learning Nextjs, Gatsby and SSR
 -->
 
 
@@ -33,7 +35,7 @@ Freelance Frontend Developer  :man_technologist:.
 
 - :earth_americas: I'm from Santiago - Chile
 - :gem: I love to customize everything
-- 🌱 I’m currently learning Nextjs, Gatsby and SSR
+- 🌱 I’m currently learning SEO & Website Performance
 
 ### I love work with :
 <a href="https://github.com/ArielCalisaya">
@@ -44,6 +46,9 @@ Freelance Frontend Developer  :man_technologist:.
 </a>
 
 ---
+
+[![ArielCalisaya github activity graph](https://activity-graph.herokuapp.com/graph?username=ArielCalisaya&bg_color=000000&color=11ff00&line=05ff5d&point=ffffff&area=true&hide_border=true)](https://github.com/ArielCalisaya)
+
 
 ## Tech & Tools Preference
 
