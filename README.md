@@ -117,7 +117,7 @@ Freelance Frontend Developer  :man_technologist:.
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </a>
 
-#### Cloud Tools and Service Provider
+#### Cloud Tools and Services
 <a href="https://github.com/ArielCalisaya">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
 </a> 
