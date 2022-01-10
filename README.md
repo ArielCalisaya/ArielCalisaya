@@ -46,9 +46,10 @@ Freelance Frontend Developer  :man_technologist:.
 </a>
 
 ---
-
+### Current commits
 [![Snake animation](https://github.com/ArielCalisaya/ArielCalisaya/blob/output-snake-commits/github-contribution-grid-snake.svg)](https://github.com/ArielCalisaya)
 
+### Monthly activity graph
 [![ArielCalisaya github activity graph](https://activity-graph.herokuapp.com/graph?username=ArielCalisaya&bg_color=000000&color=11ff00&line=05ff5d&point=ffffff&area=true&hide_border=true)](https://github.com/ArielCalisaya)
 
 ## Tech & Tools Preference
