@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Ariel C. Serrano :octocat:
 
-Freelance Frontend Developer  :man_technologist:.
+Frontend Developer  :man_technologist:.
 
 
 ## About me 
