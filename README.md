@@ -31,7 +31,7 @@ Frontend Developer  :man_technologist:.
 
 ## About me 
 
-:heart: Rain Days | :blue_heart: Programming
+🌧️: Rainy Days | :computer: Programming
 
 - :earth_americas: I'm from Santiago - Chile
 - :gem: I love to customize everything
