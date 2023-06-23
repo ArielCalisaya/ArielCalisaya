@@ -49,9 +49,6 @@ Frontend Developer  :man_technologist:.
 ### Current commits
 [![Snake animation](https://github.com/ArielCalisaya/ArielCalisaya/blob/output-snake-commits/github-contribution-grid-snake.svg)](https://github.com/ArielCalisaya)
 
-### Monthly activity graph
-[![ArielCalisaya github activity graph](https://activity-graph.herokuapp.com/graph?username=ArielCalisaya&bg_color=000000&color=11ff00&line=05ff5d&point=ffffff&area=true&hide_border=true)](https://github.com/ArielCalisaya)
-
 ## Tech & Tools Preference
 
 #### Languages
@@ -132,14 +129,4 @@ Frontend Developer  :man_technologist:.
 </a>
 <a href="https://github.com/ArielCalisaya">
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
----
-
-### Social Network & Payment method
-<a href="https://linkedin.com/in/arielcalisaya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-<a href="https://paypal.me/ArielCalisaya"> 
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
