@@ -30,9 +30,6 @@ Frontend Developer  :man_technologist:
 
 
 ## About me 
-
-🌧️: Rainy Days | :computer: Programming
-
 - :earth_americas: I'm from Santiago - Chile
 - :gem: I love to customize everything
 - 🌱 I’m currently learning SEO & Website Performance
