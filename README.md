@@ -37,14 +37,6 @@ Frontend Developer  :man_technologist:
 - :gem: I love to customize everything
 - 🌱 I’m currently learning SEO & Website Performance
 
-### I love work with :
-<a href="https://github.com/ArielCalisaya">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</a>
-<a href="https://github.com/ArielCalisaya">
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-</a>
-
 ---
 ### Current commits
 <picture>
