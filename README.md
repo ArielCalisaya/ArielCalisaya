@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 <a href="https://linkedin.com/in/arielcalisaya/" target="_blank" rel="noopener noreferrer">
 	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
 </a>
-
+-->
 # Hi, I'm Ariel C. Serrano :octocat:
 
 Frontend Developer  :man_technologist:
