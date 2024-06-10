@@ -116,6 +116,3 @@ Frontend Developer  :man_technologist:
 <a href="https://github.com/ArielCalisaya">
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
-```math
-\ce{$&#x5C;unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://raw.githubusercontent.com/ArielCalisaya/ArielCalisaya/main/background.jpeg');]{x0000}$}
