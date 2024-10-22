@@ -1,41 +1,8 @@
-<!--
-
-**ArielCalisaya/ArielCalisaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Badges Provider = https://github.com/alexandresanlim/Badges4-README.md-Profile
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 🌱 I’m currently learning Nextjs, Gatsby and SSR
--->
-
-
-<!--
-<a href="https://linkedin.com/in/arielcalisaya/" target="_blank" rel="noopener noreferrer">
-	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
-</a>
--->
 # Hi, I'm Ariel C. Serrano :octocat:
 
-Frontend Developer  :man_technologist:
+Frontend Developer :man_technologist:
 
-### Current commits
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArielCalisaya/ArielCalisaya/output-snake-commits/github-contribution-grid-snake-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArielCalisaya/ArielCalisaya/output-snake-commits/github-contribution-grid-snake.svg" />
-	<img alt="github-snake" src="https://raw.githubusercontent.com/ArielCalisaya/ArielCalisaya/output-snake-commits/github-contribution-grid-snake.svg" />
-</picture>
-
-## Tech & Tools Preference
+## Tech & Tools
 
 #### Languages
 <a href="https://github.com/ArielCalisaya">
